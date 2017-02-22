@@ -1,0 +1,146 @@
+A download is currently in progress,Una descarga está en curso
+All Bookmarks,Todos los Marcadores
+April,Abril
+Archive,Archivo
+August,Agosto
+Bookmark Removed,Eliminado marcador
+Bookmark Saved,Favoritos guardados
+Bookmark this page,Marca esta pagina
+Bookmarks,Marcadores
+Choose a date to browse,Elige una fecha para navegar
+Clear filter,filtro claro
+Current Edition,Edición actual
+December,diciembre
+Delete,Borrar
+Delete All,Eliminar todos
+Delete All?,¿Eliminar todos?
+Delete articles,Eliminar artículos
+Delete Bookmark,Eliminar marcador
+Delete bookmarks,Eliminar marcadores
+Delete Content,Eliminar contenido
+Deleting,Eliminación
+Download,Descargar
+Download Edition,Descargar Edición
+Download Page,Página de descarga
+Downloading,Descargando
+Downloads,Descargas
+Edition not loaded,Edición no cargada
+Editions,Ediciones
+February,febrero
+Filter by date,Filtrar por fecha
+January,enero
+July,julio
+June,junio
+March,marzo
+May,mayo
+Menu,menú
+No Bookmarks Available,No hay marcadores disponibles
+No Editions Available,No hay ediciones disponibles
+No other editions are currently available,Actualmente no hay otras ediciones disponibles
+No Saved Downloads Available,No hay descargas guardadas disponibles
+November,noviembre
+October,octubre
+of,de
+Page,Página
+Page Browser,Navegador de páginas
+Page downloaded,Página descargada
+Pages,Páginas
+Print,Impresión
+Print Page,Imprimir página
+Queued,En cola
+Read,Leer
+Read Now,Lee ahora
+Reading Mode,Modo de Lectura
+Search your edition,Busca tu edición
+Sections,Secciones
+Select Zone,Seleccionar zona
+September,septiembre
+Share Edition,Compartir Edición
+Share Page,Compartir pagina
+Share via,Compartir via
+"Sorry, there are no editions available to view at this time.","Lo sentimos, no hay ediciones disponibles para ver en este momento"
+"Tap 'Download' to start downloading this edtion in the background. When downloaded, you can access the entire edition whilst offline. You can access your downloaded editions at any time by opening the menu and selecting 'Downloads'.","Toque ""Descargar"" para iniciar la descarga de esta edición en segundo plano. Cuando se descarga, puede acceder a toda la edición mientras está fuera de línea. Puede acceder a las ediciones descargadas en cualquier momento abriendo el menú y seleccionando 'Descargas'"
+"Tap a page to load the bookmark, or delete to remove it from the device",Toque una página para cargar el marcador o suprima para eliminarlo del dispositivo
+Tap any edition cover to read instantly.\nSwipe down for up to date content.,Toque cualquier portada de edición para leer al instante. \ Desplace el dedo hacia abajo para ver el contenido actualizado.
+Tap on items to delete and tap the trashcan icon.,Toque en los elementos que desea eliminar y toque el ícono de la Papelera.
+Tap or Swipe down for new content,Presiona o desliza el dedo hacia abajo para obtener contenido nuevo. 
+"The edition has not loaded yet, please wait for it to finish loading before bookmarking the page",La edición todavía no se ha cargado. Espere a que finalice la carga antes de marcar la página. 
+This bookmark has been removed.,Este marcador se ha eliminado. 
+This edition has no sections to show,Esta edición no tiene secciones para mostrar
+This page has been downloaded.,Esta página ha sido descargada.
+This page is bookmarked.,Esta página está marcada.
+This will remove all articles that have been saved and make them unavailable offline.,Esto eliminará todos los artículos que se han guardado y los hará disponibles sin conexión.
+This will remove all bookmarks that have been saved.,Esto eliminará todos los marcadores que se hayan guardado. 
+This will remove all content that have been saved.,Esto eliminará todo el contenido que se haya guardado. 
+"To delete all, tap on the top right trash icon.","Para eliminarlo todo, puntee en el icono de la papelera superior derecha. "
+"To delete, hold down until the header changes.","Para eliminarlo, mantenga pulsado hasta que cambie el encabezado "
+View Bookmarks,Ver marcadores 
+Would you like to download this edition?,¿Desea descargar esta edición?
+You can change your zone,Puedes cambiar tu zona
+Zone Updated,Zona Actualizada
+Back,Espalda
+Cancel,Cancelar
+Close,Cerca
+Continue,Continuar
+Done,Hecho
+Help,Ayuda
+Home,Casa
+Loading,Cargando
+Notifications,Notificaciones
+OK,DE ACUERDO
+Please wait,por favor espera
+selected,seleccionado
+This content has not been previously cached and is unavailable offline,Este contenido no se ha puesto en caché previamente y no está disponible sin conexión
+Weather,Clima
+Article Deleted,Artículo eliminado
+Article Saved,Artículo guardado
+Content Unavailable,Contenido no disponible
+Refresh view loading text,Actualizar vista cargar texto
+Refreshing Content,Contenido refrescante
+Search,Buscar
+The app is currently checking for new content,La aplicación está comprobando actualmente el contenido nuevo
+You have no saved articles available.,No tiene artículos guardados disponibles.
+App Restart,Reinicio de la aplicación
+"By continuing, you are agreeing to our Terms of Service and Privacy Policy.","Al continuar, acepta nuestras Condiciones de servicio y Política de privacidad."
+Are you sure you want to clear your cache?,¿Está seguro de que desea borrar la memoria caché?
+Choose the default reading mode for this device,Elija el modo de lectura predeterminado para este dispositivo
+Clear App Cache,Borrar caché de aplicaciones
+Clear cache alert text message,Borrar mensaje de texto de alerta de caché
+Clear cache alert title,Borrar el título de la alerta de caché
+Clear cache description,Borrar la descripción de la caché
+Clear your cache,Borre la caché
+Clearing cache,Limpiar caché
+Customer Feedback,Comentarios de los clientes
+Email details,Detalles del correo electrónico
+Night Mode,Modo nocturno
+Offline reading,Lectura sin conexión
+Privacy Policy,Política de privacidad
+Settings,Ajustes
+Tap below to clear your cache. This will remove all data.,Toque a continuación para borrar la caché. Esto eliminará todos los datos.
+Terms & Conditions,Términos y condiciones
+Terms of Service,Términos de servicio
+Your cache has been cleared and the app will now restart.,La caché se ha borrado y la aplicación se reiniciará.
+Error - You must enter a password,Error: debe ingresar una contraseña
+Error - You must enter a username,Error: debe ingresar un nombre de usuario
+Error - Your username / password does not match,Error: su nombre de usuario / contraseña no coincide
+"Error - Your username / password was correct, but you do not have a subscription","Error: su nombre de usuario / contraseña es correcto, pero no tiene una suscripción."
+Forgotten your password? Click here,¿Olvidaste tu contraseña? haga clic aquí
+Log in,Iniciar sesión
+Log in to read editions,Inicie sesión para leer las ediciones
+Log out,Cerrar sesión
+Logged out,Desconectado
+Login succeeded,Inicio de sesión
+Login unsuccessful,Login fallido
+Login window,Ventana de inicio de sesión
+Password,Contraseña
+Please contact support to access this publication,Póngase en contacto con el servicio de asistencia para acceder a esta publicación
+Please purchase a subscription or login to continue reading,"Por favor, compre una suscripción o ingrese para continuar leyendo"
+Subscribe,Suscribir
+"Subscribe to read all articles, view comments, and read the digital edition.","Suscríbase para leer todos los artículos, ver comentarios y leer la edición digital."
+Subscribe Today,Suscríbete Hoy
+Swipe to next article,Deslizar al siguiente artículo
+This article is available to subscribers only,Este artículo está disponible sólo para suscriptores
+Username,Nombre de usuario
+"You have logged out, you will need to log in to access paid for content.","Se ha cerrado la sesión, tendrá que iniciar sesión para acceder al contenido pagado."
+You have successfully logged in.,Has iniciado sesión correctamente.
+"Your login was not successful, please try again or contact customer services.",Tu nombre de usuario no se ha realizado correctamente; inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente.
